@@ -1,4 +1,4 @@
-from calculator import add
+from maths import add
 
 def test_add():
     answer = add(10, 20)
