@@ -1,4 +1,5 @@
-A=10
-B=30
-C=A+B
-print("Result:",C)
+def add(a, b):
+    return a + b
+
+result = add(10,20)
+console.log(result)
